@@ -1,5 +1,6 @@
 pandas>=2.0
 numpy
 openpyxl
+pyarrow
 streamlit>=1.30
 plotly
